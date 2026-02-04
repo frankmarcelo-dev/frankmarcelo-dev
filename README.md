@@ -1,6 +1,6 @@
 <!-- Frankitoy | GitHub Profile README -->
 
-<h2 align="center">Hi there, I'm Frankitoy 👋</h2>
+<h2 align="center">Hi there, I'm Frank Marcelo 👋</h2>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Frankitoy avatar" width="120" style="border-radius:50%;">
@@ -10,7 +10,7 @@
 
 **🌟 About Me**
 
-Hi! I'm Frankitoy—a passionate developer, coder, and technology enthusiast. I love building impactful software and learning about the latest trends in tech. My favorite languages include Python, JavaScript, and C++. Always eager to collaborate and tackle new challenges!
+A passionate developer, coder, and technology enthusiast. I love building impactful software and learning about the latest trends in tech. My favourite languages include Python, JavaScript, and C++. Always eager to collaborate and tackle new challenges!
 
 **💼 What I Do**
 - Full-stack web development
@@ -29,7 +29,6 @@ Hi! I'm Frankitoy—a passionate developer, coder, and technology enthusiast. I 
 - DevOps, CI/CD, and containerization
 
 **📫 Connect with Me**
-- 🌐 [Portfolio Website](https://your-website-link.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 🐦 [Twitter/X](https://twitter.com/your-handle)
 - ✉️ Email: your.email@domain.com
