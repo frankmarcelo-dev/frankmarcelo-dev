@@ -10,7 +10,8 @@
 
 **🌟 About Me**
 
-A passionate developer, coder, and technology enthusiast. I love building impactful software and learning about the latest trends in tech. My favourite languages include Python, JavaScript, and C++. Always eager to collaborate and tackle new challenges!
+A passionate developer, coder, and technology enthusiast. I love building impactful software and learning about the latest tech trends. 
+My favourite languages include Java, .NET, and TypeScript. Always eager to collaborate and tackle new challenges!
 
 **💼 What I Do**
 - Full-stack web development
@@ -31,14 +32,7 @@ A passionate developer, coder, and technology enthusiast. I love building impact
 - 💼 [LinkedIn](https://www.linkedin.com/in/frank-marcelo-b671b34/)
 - ✉️ Email: frank.marcelo@yahoo.com.ph
 
-
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankitoy&theme=default" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=frankitoy&show_icons=true&hide_title=true&count_private=true&theme=default" alt="Stats" />
-</p>
 
 ---
 
