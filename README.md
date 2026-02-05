@@ -3,7 +3,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/357546?v=4&size=64" alt="Frankitoy avatar" width="120" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/357546" alt="Frankitoy avatar" width="120" style="border-radius:50%;">
 </p>
 
 ---
