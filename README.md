@@ -35,7 +35,7 @@ My favourite languages include Java, .NET, and TypeScript. Always eager to colla
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
+<br />
 
 **📫 Connect with Me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/frank-marcelo-b671b34/)
