@@ -1,9 +1,9 @@
 <!-- Frankitoy | GitHub Profile README -->
 
-<h2 align="center">Hi there, I'm Frank Marcelo 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Frankitoy avatar" width="120" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4](https://avatars.githubusercontent.com/u/357546?v=4&size=64" alt="Frankitoy avatar" width="120" style="border-radius:50%;">
 </p>
 
 ---
@@ -24,20 +24,13 @@ A passionate developer, coder, and technology enthusiast. I love building impact
 - 📝 Writing technical articles and guides
 
 **🌱 I'm Learning**
-- Next.js, TypeScript, and Cloud Functions
-- Deep learning frameworks (PyTorch & TensorFlow)
-- DevOps, CI/CD, and containerization
+- Angular, React, Next.js, TypeScript, RestfulAPI, Design Systems, GraphQL, Web Components, .NET, Springboot Java, AWS, Azure, and Cloud Functions, 
+- Software Development, Generative AI, DevOps, CI/CD, and containerization
 
 **📫 Connect with Me**
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
-- ✉️ Email: your.email@domain.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/frank-marcelo-b671b34/)
+- ✉️ Email: frank.marcelo@yahoo.com.ph
 
-**🚩 Languages**
-- English, Spanish, (add more!)
-
-**⚡ Fun Fact**
-I enjoy tinkering with electronics, exploring new frameworks, and I'm always up for a game of chess!
 
 ---
 
@@ -48,8 +41,6 @@ I enjoy tinkering with electronics, exploring new frameworks, and I'm always up 
 </p>
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <!--
 **frankitoy/frankitoy** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
