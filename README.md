@@ -1,17 +1,14 @@
 <!-- frankmarcelo-dev | GitHub Profile README -->
 
-<h2 align="center">Hi there 👋</h2>
-
 ---
 
 **🌟 About Me**
 
 A passionate developer, coder, and technology enthusiast. I love building impactful software and learning about the latest tech trends. 
-My favourite languages include Angular, React, TypeScript, Next.Js, Java, .NET, and TypeScript. Always eager to collaborate and tackle new challenges!
+My favourite languages include Angular, React, TypeScript, Next.Js, Springboot Java, and .NET Core,. Always eager to collaborate and tackle new challenges!
 
 **💼 What I Do**
 - Full-stack web development
-- Data science & machine learning
 - Automation, scripting, and APIs
 - Open source contributions
 
