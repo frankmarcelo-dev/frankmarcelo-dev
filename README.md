@@ -7,7 +7,7 @@
 **🌟 About Me**
 
 A passionate developer, coder, and technology enthusiast. I love building impactful software and learning about the latest tech trends. 
-My favourite languages include Java, .NET, and TypeScript. Always eager to collaborate and tackle new challenges!
+My favourite languages include Angular, React, TypeScript, Next.Js, Java, .NET, and TypeScript. Always eager to collaborate and tackle new challenges!
 
 **💼 What I Do**
 - Full-stack web development
@@ -24,6 +24,8 @@ My favourite languages include Java, .NET, and TypeScript. Always eager to colla
 
 ### 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
