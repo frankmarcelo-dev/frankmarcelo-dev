@@ -2,7 +2,7 @@
 
 # Hey, I'm Frank Marcelo 👋
 
-**Full-Stack Engineer · Angular · .NET Core · TypeScript**
+**Full-Stack Engineer · Angular · ReactJs · Springboot Java · NodeJs · .NET Core · TypeScript**
 
 *Building clean, performant web apps — and exploring what AI can do for developers.*
 
