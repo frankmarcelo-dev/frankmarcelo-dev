@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a full-stack developer specialising in **Angular frontends** and **.NET Core backends**, with a passion for modern web architecture, clean code, and developer experience. I enjoy digging into Angular's latest features — signals, control flow, deferred loading — and building APIs that are fast, testable, and maintainable.
+I'm a full-stack developer specialising in **Angular, React, Typescript frontends**, **Java Springboot** and **.NET Core backends**, with a passion for modern web architecture, clean code, and developer experience. I enjoy digging into Angular's latest features — signals, control flow, deferred loading — and building APIs that are fast, testable, and maintainable.
 
 When I'm not shipping features, I'm writing, contributing to open source, or experimenting with AI-powered automation.
 
