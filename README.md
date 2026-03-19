@@ -61,9 +61,9 @@ When I'm not shipping features, I'm writing, contributing to open source, or exp
 
 <div align="center">
 
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankitoy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankmarcelo-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankitoy&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankmarcelo-dev&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
